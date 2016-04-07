@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  1 APR 2016 12:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  7 APR 2016 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -794,14 +794,15 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `fig:submodular' on page 3 undefined on input line 225
 .
 
-[3 <./figure_1/figure_1.pdf>]
+[3]
 
 LaTeX Warning: Command \textsection invalid in math mode on input line 229.
 
 Missing character: There is no Ÿ in font cmr10!
-[4] <plot5.pdf, id=36, 464.40001pt x 287.01497pt>
+[4 <./figure_1/figure_1.pdf>] <plot5.pdf, id=36, 464.40001pt x 287.01497pt>
 File: plot5.pdf Graphic file (type pdf)
- <use plot5.pdf>
+
+<use plot5.pdf>
 Package pdftex.def Info: plot5.pdf used on input line 308.
 (pdftex.def)             Requested size: 255.42079pt x 157.85872pt.
 
@@ -809,9 +810,10 @@ Overfull \hbox (3.42079pt too wide) in paragraph at lines 308--309
 [][] 
  []
 
-<plot4.pdf, id=37, 464.40001pt x 287.01497pt>
+[5 <./plot5.pdf>] <plot4.pdf, id=60, 464.40001pt x 287.01497pt>
 File: plot4.pdf Graphic file (type pdf)
- <use plot4.pdf>
+
+<use plot4.pdf>
 Package pdftex.def Info: plot4.pdf used on input line 371.
 (pdftex.def)             Requested size: 255.42079pt x 157.85872pt.
 
@@ -819,10 +821,9 @@ Overfull \hbox (3.42079pt too wide) in paragraph at lines 371--372
 [][] 
  []
 
-[5 <./plot5.pdf>] <plot3.pdf, id=61, 464.40001pt x 287.01497pt>
+<plot3.pdf, id=61, 464.40001pt x 287.01497pt>
 File: plot3.pdf Graphic file (type pdf)
-
-<use plot3.pdf>
+ <use plot3.pdf>
 Package pdftex.def Info: plot3.pdf used on input line 384.
 (pdftex.def)             Requested size: 255.42079pt x 157.85872pt.
 
@@ -830,18 +831,18 @@ Overfull \hbox (3.42079pt too wide) in paragraph at lines 384--385
 [][] 
  []
 
-(./Article.bbl
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `English'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `English'. Using the pattern for
-** the default language instead.
-[6 <./plot4.pdf> <./plot3.pdf
+(./Article.bbl [6 <./plot4.pdf> <./plot3.pdf
 
 pdfTeX warning: pdflatex.exe (file ./plot3.pdf): PDF inclusion: multiple pdfs w
 ith page group included in a single page
->])
+>]
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `English'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `English'. Using the pattern for
+** the default language instead.
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -861,10 +862,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 6769 strings out of 493054
- 100310 string characters out of 6138326
- 182698 words of memory out of 5000000
- 10174 multiletter control sequences out of 15000+600000
+ 6768 strings out of 493054
+ 100291 string characters out of 6138326
+ 183694 words of memory out of 5000000
+ 10173 multiletter control sequences out of 15000+600000
  107681 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,9n,38p,2143b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -884,7 +885,7 @@ pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/20
 15/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2015/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on Article.pdf (7 pages, 3024359 bytes).
+Output written on Article.pdf (7 pages, 3024715 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream

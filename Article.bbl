@@ -42,30 +42,6 @@ G.~Filatrella, a.~H. Nielsen, and N.~F. Pedersen, ``{Analysis of a power grid
   \url{http://www.springerlink.com/index/10.1140/epjb/e2008-00098-8}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Liu2015}
-\BIBentryALTinterwordspacing
-Y.-Y. Liu and A.-L. Barab{\'{a}}si, ``{Control Principles of Complex
-  Networks},'' pp. 1--55, 2015. [Online]. Available:
-  \url{http://arxiv.org/abs/1508.05384}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Summers2014}
-\BIBentryALTinterwordspacing
-T.~Summers, F.~Cortesi, and J.~Lygeros, ``{On Submodularity and Controllability
-  in Complex Dynamical Networks},'' \emph{arXiv preprint arXiv:1404.7665}, pp.
-  1--10, 2014. [Online]. Available: \url{http://arxiv.org/abs/1404.7665}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Minoux}
-\BIBentryALTinterwordspacing
-M.~Minoux, ``\BIBforeignlanguage{English}{Accelerated greedy algorithms for
-  maximizing submodular set functions},'' in
-  \emph{\BIBforeignlanguage{English}{Optimization Techniques}}, ser. Lecture
-  Notes in Control and Information Sciences, J.~Stoer, Ed.\hskip 1em plus 0.5em
-  minus 0.4em\relax Springer Berlin Heidelberg, 1978, vol.~7, pp. 234--243.
-  [Online]. Available: \url{http://dx.doi.org/10.1007/BFb0006528}
-\BIBentrySTDinterwordspacing
-
 \bibitem{1100557}
 C.-T. Lin, ``Structural controllability,'' \emph{IEEE Transactions on Automatic
   Control}, vol.~19, no.~3, pp. 201--208, Jun 1974.
@@ -79,10 +55,34 @@ G.~Yan, J.~Ren, Y.~C. Lai, C.~H. Lai, and B.~Li, ``{Controlling complex
   networks: How much energy is needed?}'' \emph{Physical Review Letters}, vol.
   108, no.~21, pp. 1--5, 2012.
 
+\bibitem{Liu2015}
+\BIBentryALTinterwordspacing
+Y.-Y. Liu and A.-L. Barab{\'{a}}si, ``{Control Principles of Complex
+  Networks},'' pp. 1--55, 2015. [Online]. Available:
+  \url{http://arxiv.org/abs/1508.05384}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Krause2014}
 A.~Krause and D.~Golovin, ``{Submodular function maximization},''
   \emph{Tractability: Practical Approaches to Hard Problems}, vol.~3, pp.
   71--104, 2014.
+
+\bibitem{Minoux}
+\BIBentryALTinterwordspacing
+M.~Minoux, ``\BIBforeignlanguage{English}{Accelerated greedy algorithms for
+  maximizing submodular set functions},'' in
+  \emph{\BIBforeignlanguage{English}{Optimization Techniques}}, ser. Lecture
+  Notes in Control and Information Sciences, J.~Stoer, Ed.\hskip 1em plus 0.5em
+  minus 0.4em\relax Springer Berlin Heidelberg, 1978, vol.~7, pp. 234--243.
+  [Online]. Available: \url{http://dx.doi.org/10.1007/BFb0006528}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Summers2014}
+\BIBentryALTinterwordspacing
+T.~Summers, F.~Cortesi, and J.~Lygeros, ``{On Submodularity and Controllability
+  in Complex Dynamical Networks},'' \emph{arXiv preprint arXiv:1404.7665}, pp.
+  1--10, 2014. [Online]. Available: \url{http://arxiv.org/abs/1404.7665}
+\BIBentrySTDinterwordspacing
 
 \bibitem{Dorfler2013}
 \BIBentryALTinterwordspacing
@@ -91,13 +91,6 @@ F.~D{\"{o}}rfler, M.~Chertkov, and F.~Bullo, ``{Synchronization in complex
   Academy of Sciences of the United States of America}, vol. 110, no.~6, pp.
   2005--2010, 2013. [Online]. Available:
   \url{http://www.ncbi.nlm.nih.gov/pubmed/23319658}
-\BIBentrySTDinterwordspacing
-
-\bibitem{jensen_2015_35177}
-\BIBentryALTinterwordspacing
-T.~V. Jensen, H.~de~Sevin, M.~Greiner, and P.~Pinson, ``The re-europe data
-  set,'' Dec. 2015. [Online]. Available:
-  \url{http://dx.doi.org/10.5281/zenodo.35177}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
