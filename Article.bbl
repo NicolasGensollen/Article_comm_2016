@@ -26,13 +26,31 @@ S.~D. Ramchurn \emph{et~al.}, ``Putting the 'smarts' into the smart grid: A
   grand challenge for artificial intelligence,'' \emph{Commun. ACM}, vol.~55,
   no.~4, pp. 86--97, Apr. 2012.
 
-\bibitem{Rathnayaka2012}
+\bibitem{Parag2016}
 \BIBentryALTinterwordspacing
-a.~J.~D. Rathnayaka, V.~Potdar, and M.~H. Ou, ``{Prosumer management in
-  socio-technical smart grid},'' \emph{Proceedings of the CUBE International
-  Information Technology Conference on - CUBE '12}, p. 483, 2012. [Online].
-  Available: \url{http://dl.acm.org/citation.cfm?doid=2381716.2381808}
+Y.~Parag and B.~K. Sovacool, ``{Electricity market design for the prosumer
+  era},'' \emph{Nature Energy}, no. March, p. 16032, 2016. [Online]. Available:
+  \url{http://www.nature.com/articles/nenergy201632}
 \BIBentrySTDinterwordspacing
+
+\bibitem{Gensollen2014}
+\BIBentryALTinterwordspacing
+N.~Gensollen, V.~Gauthier, M.~Marot, and M.~Becker, ``{Coalition Formation
+  Algorithm of Prosumers in a Smart Grid Environment},'' pp. 5896--5902, 2014.
+  [Online]. Available: \url{http://arxiv.org/abs/1410.8776}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Gkatzikis2015}
+L.~Gkatzikis, G.~Iosifidis, I.~Koutsopoulos, and L.~Tassiulas, ``{Collaborative
+  placement and sharing of storage resources in the Smart Grid},'' \emph{2014
+  IEEE International Conference on Smart Grid Communications, SmartGridComm
+  2014}, pp. 103--108, 2015.
+
+\bibitem{Farraj2015}
+A.~Farraj, E.~Hammad, and D.~Kundur, ``{On Using Distributed Energy Resources
+  to Reshape the Dynamics of Power Systems During Transients},'' \emph{2015
+  IEEE International Conference on Smart Grid Communications, SmartGridComm
+  2015}, pp. 756--761, 2015.
 
 \bibitem{Filatrella2008}
 \BIBentryALTinterwordspacing
@@ -62,6 +80,15 @@ Y.-Y. Liu and A.-L. Barab{\'{a}}si, ``{Control Principles of Complex
   \url{http://arxiv.org/abs/1508.05384}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Dorfler2013}
+\BIBentryALTinterwordspacing
+F.~D{\"{o}}rfler, M.~Chertkov, and F.~Bullo, ``{Synchronization in complex
+  oscillator networks and smart grids.}'' \emph{Proceedings of the National
+  Academy of Sciences of the United States of America}, vol. 110, no.~6, pp.
+  2005--2010, 2013. [Online]. Available:
+  \url{http://www.ncbi.nlm.nih.gov/pubmed/23319658}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Krause2014}
 A.~Krause and D.~Golovin, ``{Submodular function maximization},''
   \emph{Tractability: Practical Approaches to Hard Problems}, vol.~3, pp.
@@ -82,15 +109,6 @@ M.~Minoux, ``\BIBforeignlanguage{English}{Accelerated greedy algorithms for
 T.~Summers, F.~Cortesi, and J.~Lygeros, ``{On Submodularity and Controllability
   in Complex Dynamical Networks},'' \emph{arXiv preprint arXiv:1404.7665}, pp.
   1--10, 2014. [Online]. Available: \url{http://arxiv.org/abs/1404.7665}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Dorfler2013}
-\BIBentryALTinterwordspacing
-F.~D{\"{o}}rfler, M.~Chertkov, and F.~Bullo, ``{Synchronization in complex
-  oscillator networks and smart grids.}'' \emph{Proceedings of the National
-  Academy of Sciences of the United States of America}, vol. 110, no.~6, pp.
-  2005--2010, 2013. [Online]. Available:
-  \url{http://www.ncbi.nlm.nih.gov/pubmed/23319658}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
