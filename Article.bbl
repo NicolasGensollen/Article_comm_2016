@@ -89,6 +89,13 @@ F.~D{\"{o}}rfler, M.~Chertkov, and F.~Bullo, ``{Synchronization in complex
   \url{http://www.ncbi.nlm.nih.gov/pubmed/23319658}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Summers2014}
+\BIBentryALTinterwordspacing
+T.~Summers, F.~Cortesi, and J.~Lygeros, ``{On Submodularity and Controllability
+  in Complex Dynamical Networks},'' \emph{arXiv preprint arXiv:1404.7665}, pp.
+  1--10, 2014. [Online]. Available: \url{http://arxiv.org/abs/1404.7665}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Krause2014}
 A.~Krause and D.~Golovin, ``{Submodular function maximization},''
   \emph{Tractability: Practical Approaches to Hard Problems}, vol.~3, pp.
@@ -102,13 +109,6 @@ M.~Minoux, ``\BIBforeignlanguage{English}{Accelerated greedy algorithms for
   Notes in Control and Information Sciences, J.~Stoer, Ed.\hskip 1em plus 0.5em
   minus 0.4em\relax Springer Berlin Heidelberg, 1978, vol.~7, pp. 234--243.
   [Online]. Available: \url{http://dx.doi.org/10.1007/BFb0006528}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Summers2014}
-\BIBentryALTinterwordspacing
-T.~Summers, F.~Cortesi, and J.~Lygeros, ``{On Submodularity and Controllability
-  in Complex Dynamical Networks},'' \emph{arXiv preprint arXiv:1404.7665}, pp.
-  1--10, 2014. [Online]. Available: \url{http://arxiv.org/abs/1404.7665}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
