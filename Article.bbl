@@ -33,13 +33,6 @@ Y.~Parag and B.~K. Sovacool, ``{Electricity market design for the prosumer
   \url{http://www.nature.com/articles/nenergy201632}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Gensollen2014}
-\BIBentryALTinterwordspacing
-N.~Gensollen, V.~Gauthier, M.~Marot, and M.~Becker, ``{Coalition Formation
-  Algorithm of Prosumers in a Smart Grid Environment},'' pp. 5896--5902, 2014.
-  [Online]. Available: \url{http://arxiv.org/abs/1410.8776}
-\BIBentrySTDinterwordspacing
-
 \bibitem{Gkatzikis2015}
 L.~Gkatzikis, G.~Iosifidis, I.~Koutsopoulos, and L.~Tassiulas, ``{Collaborative
   placement and sharing of storage resources in the Smart Grid},'' \emph{2014
@@ -109,6 +102,13 @@ M.~Minoux, ``\BIBforeignlanguage{English}{Accelerated greedy algorithms for
   Notes in Control and Information Sciences, J.~Stoer, Ed.\hskip 1em plus 0.5em
   minus 0.4em\relax Springer Berlin Heidelberg, 1978, vol.~7, pp. 234--243.
   [Online]. Available: \url{http://dx.doi.org/10.1007/BFb0006528}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Gensollen2014}
+\BIBentryALTinterwordspacing
+N.~Gensollen, V.~Gauthier, M.~Marot, and M.~Becker, ``{Coalition Formation
+  Algorithm of Prosumers in a Smart Grid Environment},'' pp. 5896--5902, 2014.
+  [Online]. Available: \url{http://arxiv.org/abs/1410.8776}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

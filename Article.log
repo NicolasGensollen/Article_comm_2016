@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  13 APR 2016 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  19 APR 2016 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -771,68 +771,76 @@ Package caption Info: End \AtBeginDocument code.
 
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 106.
+LaTeX Font Info:    Try loading font information for U+msa on input line 110.
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 106.
+LaTeX Font Info:    Try loading font information for U+msb on input line 110.
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2] [3]
-<./figure_1/figure_1.pdf, id=24, 597.432pt x 845.07718pt>
-File: ./figure_1/figure_1.pdf Graphic file (type pdf)
-
-<use ./figure_1/figure_1.pdf>
-Package pdftex.def Info: ./figure_1/figure_1.pdf used on input line 299.
-(pdftex.def)             Requested size: 149.35764pt x 211.26877pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+[]\T1/ptm/m/n/10 It was shown by Kalman that a lin-ear sys-tem
+ []
 
 
-Package caption Warning: \label without proper \caption on input line 297.
-See the caption package documentation for explanation.
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 A; B\OT1/cmr/m/n/10 )$ \T1/ptm/m/n/10 is con-
+trol-lable if the con-trol-la-bil-ity ma-trix
+ []
 
 
-LaTeX Warning: Reference `fig:submodular' on page 4 undefined on input line 304
-.
+Underfull \hbox (badness 6094) in paragraph at lines 114--115
+\OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = [\OML/cmm/m/it/10 B; AB; A[]B; :::; A[]B\O
+T1/cmr/m/n/10 ]$ \T1/ptm/m/n/10 has full rank, that
+ []
 
-[4]
 
-LaTeX Warning: Command \textsection invalid in math mode on input line 308.
+Underfull \hbox (badness 3098) in paragraph at lines 114--115
+\T1/ptm/m/n/10 is, $\OML/cmm/m/it/10 rank\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 C\OT
+1/cmr/m/n/10 ) = \OML/cmm/m/it/10 N$\T1/ptm/m/n/10 . Nev-er-the-less, when stud
+y-ing the
+ []
+
+[2] [3]
+
+LaTeX Warning: Command \textsection invalid in math mode on input line 312.
 
 Missing character: There is no Ÿ in font cmr10!
-<plot5.pdf, id=30, 464.40001pt x 287.01497pt>
+[4] <plot5.pdf, id=29, 464.40001pt x 287.01497pt>
 File: plot5.pdf Graphic file (type pdf)
  <use plot5.pdf>
-Package pdftex.def Info: plot5.pdf used on input line 317.
+Package pdftex.def Info: plot5.pdf used on input line 321.
 (pdftex.def)             Requested size: 255.42079pt x 157.85872pt.
 
-Overfull \hbox (3.42079pt too wide) in paragraph at lines 317--318
+Overfull \hbox (3.42079pt too wide) in paragraph at lines 321--322
 [][] 
  []
 
-[5 <./figure_1/figure_1.pdf> <./plot5.pdf>]
-<plot4.png, id=59, 464.4552pt x 286.9119pt>
+<plot4.png, id=30, 464.4552pt x 286.9119pt>
 File: plot4.png Graphic file (type png)
  <use plot4.png>
-Package pdftex.def Info: plot4.png used on input line 380.
+Package pdftex.def Info: plot4.png used on input line 384.
 (pdftex.def)             Requested size: 255.45114pt x 157.80202pt.
 
-Overfull \hbox (3.45114pt too wide) in paragraph at lines 380--381
+Overfull \hbox (3.45114pt too wide) in paragraph at lines 384--385
 [][] 
  []
 
-<plot3.pdf, id=60, 464.40001pt x 287.01497pt>
+[5 <./plot5.pdf>] <plot3.pdf, id=54, 464.40001pt x 287.01497pt>
 File: plot3.pdf Graphic file (type pdf)
- <use plot3.pdf>
-Package pdftex.def Info: plot3.pdf used on input line 393.
+
+<use plot3.pdf>
+Package pdftex.def Info: plot3.pdf used on input line 397.
 (pdftex.def)             Requested size: 255.42079pt x 157.85872pt.
 
-Overfull \hbox (3.42079pt too wide) in paragraph at lines 393--394
+Overfull \hbox (3.42079pt too wide) in paragraph at lines 397--398
 [][] 
  []
 
-[6 <./plot4.png (PNG copy)> <./plot3.pdf>] (./Article.bbl
+(./Article.bbl
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
@@ -851,41 +859,35 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[7
-
-] (./Article.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[6 <./plot4.png (PNG copy)> <./plot3.pdf>] (./Article.aux) ) 
 Here is how much of TeX's memory you used:
- 6771 strings out of 493054
- 100315 string characters out of 6138326
- 183696 words of memory out of 5000000
- 10175 multiletter control sequences out of 15000+600000
+ 6764 strings out of 493054
+ 100165 string characters out of 6138326
+ 183652 words of memory out of 5000000
+ 10170 multiletter control sequences out of 15000+600000
  107681 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,9n,38p,2143b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2015/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2015/texmf-dist/fo
-nts/type1/public/amsfonts/cmextra/cmex7.pfb><c:/texlive/2015/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi5.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2015/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2015/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/he
-lvetic/uhvr8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.
-pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/20
-15/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2015/texmf-dist/fon
-ts/type1/urw/times/utmr8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on Article.pdf (7 pages, 3022170 bytes).
+{c:/texlive/2015/te
+xmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cmextra/cmex7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.
+pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2015/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy5.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:
+/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb><c:/texlive/2015/
+texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2015/texmf-dist/fonts/t
+ype1/urw/times/utmbi8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/ut
+mr8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Article.pdf (6 pages, 546694 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
+ 121 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

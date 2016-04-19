@@ -5,7 +5,6 @@
 \catcode `?\active 
 \citation{Ramchurn}
 \citation{Parag2016}
-\citation{Gensollen2014}
 \citation{Gkatzikis2015}
 \citation{Gkatzikis2015}
 \citation{Gkatzikis2015}
@@ -14,6 +13,7 @@
 \citation{Farraj2015}
 \citation{Gkatzikis2015}
 \citation{Farraj2015}
+\citation{Filatrella2008}
 \citation{Filatrella2008}
 \select@language{english}
 \@writefile{toc}{\select@language{english}}
@@ -30,11 +30,11 @@
 \newlabel{sec:control}{{II}{2}}
 \newlabel{eq:ustar}{{1}{2}}
 \newlabel{eq:energy}{{2}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {III}Model design for power grid dynamics}{2}}
+\newlabel{sec:The_Model}{{III}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Grid dynamic without constraint}{2}}
 \citation{Filatrella2008}
 \citation{Dorfler2013}
-\@writefile{toc}{\contentsline {section}{\numberline {III}Model design for power grid dynamics}{3}}
-\newlabel{sec:The_Model}{{III}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Grid dynamic without constraint}{3}}
 \newlabel{eq:diss}{{3}{3}}
 \newlabel{eq:acc}{{4}{3}}
 \newlabel{eq:trans}{{5}{3}}
@@ -44,11 +44,12 @@
 \newlabel{eq:final_equation}{{10}{3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Flow Constraints}{3}}
 \newlabel{eq:flow_cons}{{12}{3}}
+\newlabel{synchro_constraint}{{13}{3}}
 \citation{Summers2014}
 \citation{Summers2014}
 \citation{Krause2014}
 \citation{Krause2014}
-\newlabel{synchro_constraint}{{13}{4}}
+\citation{Minoux}
 \newlabel{zero_sum_constraint}{{14}{4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-C}}Battery Constraints}{4}}
 \newlabel{level_constraints}{{16}{4}}
@@ -57,38 +58,35 @@
 \newlabel{sec:control_and_submodularity}{{IV}{4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Gramian based optimization}{4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Submodularity}{4}}
-\citation{Minoux}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces At $ t=800 $, $P_5 $ goes from $-1$ to $-2$ (power inbalance). Consequently, the frequencies $ \mathaccentV {dot}05F{ \theta }_i $ deviate from the synchronized state. At $ t = 1000$, optimal control inputs (see equation \ref  {eq:ustar}) are injected at nodes 0, 2, and 4 (nodes with ellipses) such that the system is brought to the synchronized state at time $ t = 1500 $ (control time $ T = 500 $).\relax }}{5}}
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
-\newlabel{fig:submodular}{{\caption@xref {fig:submodular}{ on input line 297}}{5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Submodularity example with sensor placements.\relax }}{5}}
+\newlabel{fig:frequecies}{{1}{5}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}}Optimization with grid constraints}{5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces At $ t_k=800 $, $P_5 $ goes from $-1$ to $-2$ (power inbalance). Consequently, the frequencies $ \mathaccentV {dot}05F{ \theta }_i $ deviate from the synchronized state. At $ t_k + d = 1000$, optimal control inputs (see equation \ref  {eq:ustar}) are injected at nodes 0, 2, and 4 (nodes with ellipses) such that the system is brought to the synchronized state at time $ t_k + d + T = 1500 $ (T is the control time).\relax }}{5}}
-\newlabel{fig:frequecies}{{2}{5}}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Optimization with grid constraints\relax }}{5}}
+\newlabel{algo_1}{{1}{5}}
 \@writefile{toc}{\contentsline {section}{\numberline {V}Results}{5}}
 \newlabel{sec:Results}{{V}{5}}
 \citation{Gensollen2014}
-\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Optimization with grid constraints\relax }}{6}}
-\newlabel{algo_1}{{1}{6}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces $log(\mathcal  {E})$ against $n_D$ for random and optimized driver sets ($ N_{nodes} = 50 $).\relax }}{6}}
-\newlabel{fig:densities}{{3}{6}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces  $ n_D $ against link probability p for erdos-renyi topologies ($ N=100 $). Curves are averaged over 100 realizations. The top three curves show the results for the three metrics taken into consideration when all constraints are considered (see Level 1 in the main text). The bottom three curves exhibit the results for the same metrics when only the full controllability constraint is considered (see Level 2).\relax }}{6}}
-\newlabel{fig:erdos_renyi}{{4}{6}}
-\@writefile{toc}{\contentsline {section}{\numberline {VI}Conclusion}{6}}
-\newlabel{sec:Conclusion}{{VI}{6}}
 \bibstyle{IEEEtran}
 \bibdata{Article}
 \bibcite{Ramchurn}{1}
 \bibcite{Parag2016}{2}
-\bibcite{Gensollen2014}{3}
-\bibcite{Gkatzikis2015}{4}
-\bibcite{Farraj2015}{5}
-\bibcite{Filatrella2008}{6}
-\bibcite{1100557}{7}
-\bibcite{Yuan2014}{8}
-\bibcite{Yan2012}{9}
-\bibcite{Liu2015}{10}
-\bibcite{Dorfler2013}{11}
-\bibcite{Summers2014}{12}
-\bibcite{Krause2014}{13}
-\bibcite{Minoux}{14}
-\@writefile{toc}{\contentsline {section}{References}{7}}
+\bibcite{Gkatzikis2015}{3}
+\bibcite{Farraj2015}{4}
+\bibcite{Filatrella2008}{5}
+\bibcite{1100557}{6}
+\bibcite{Yuan2014}{7}
+\bibcite{Yan2012}{8}
+\bibcite{Liu2015}{9}
+\bibcite{Dorfler2013}{10}
+\bibcite{Summers2014}{11}
+\bibcite{Krause2014}{12}
+\bibcite{Minoux}{13}
+\bibcite{Gensollen2014}{14}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces $log(\mathcal  {E})$ against $n_D$ for random and optimized driver sets ($ N_{nodes} = 50 $).\relax }}{6}}
+\newlabel{fig:densities}{{2}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces  $ n_D $ against link probability p for erdos-renyi topologies ($ N=100 $). Curves are averaged over 100 realizations. The top three curves show the results for the three metrics taken into consideration when all constraints are considered (see Level 1 in the main text). The bottom three curves exhibit the results for the same metrics when only the full controllability constraint is considered (see Level 2).\relax }}{6}}
+\newlabel{fig:erdos_renyi}{{3}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {VI}Conclusion}{6}}
+\newlabel{sec:Conclusion}{{VI}{6}}
+\@writefile{toc}{\contentsline {section}{References}{6}}
